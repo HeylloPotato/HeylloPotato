@@ -6,3 +6,5 @@
   https://www.youtube.com/channel/UCHinkx3CEkzWkIF2NyYO_JA  
   https://www.twitter.com/heyllop   
   https://www.instagram.com/heyllopotato  
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeylloPotato)](https://github.com/HeylloPotato/github-readme-stats) 
